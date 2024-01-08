@@ -34,7 +34,7 @@
     ],
     "projects": [
         {
-            "name": "Report Refactoring",
+            "name": "Demo Project",
             "image": "/Portfolio/logos/NET.svg",
             "about": "This refactoring ticket saved the client $30,000 a year in man hours, removing a 2 minute search that the Customer Service Agents would do over 45K times a year. There was a specific report in the client website that lacked important information. To solve the problem I researched different internal API's, found the best and added its data to the report. This included authentication with a bearer token and creating the data structures in C# to represent the API response. I also added error handling in several locations so the backend would handle the situation, were the API to be unresponsive.",
             "tech": ["C#", ".NET", "SQL"],
