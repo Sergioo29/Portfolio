@@ -12,12 +12,13 @@ const Intro = () => {
             initial={{ y: 40 }}
             transition={{ duration: 0.5 }}
         >
-            <p className="text-3xl text-neon font-fira">Hi, your name was</p>
+            <p className="text-3xl text-neon font-fira">Hi, my name is</p>
             <h1 className="text-5xl font-extrabold text-text md:text-8xl">
                 {data.name}
             </h1>
             <h2 className="text-4xl text-textDark md:text-6xl">
-                Web Design Maverick with a Passion for Pixels and a Code Wizard in the Making.
+                Web Design Maverick with a Passion for Pixels and a Code Wizard
+                in the Making.
             </h2>
             <p className="w-4/5 md:w-3/5 text-textDark">
                 I&rsquo;m a{' '}

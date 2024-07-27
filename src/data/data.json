@@ -1,63 +1,178 @@
 {
-  "name": "Sergio da Silva",
-  "image": "/Portfolio/sergioprofile.jpeg",
-  "profession": "Web Designer",
-  "intro": "I am a Web Designer",
-  "about": "My major is Web Design and Development, and my minor is in Graphic Design so I could be even better at designing websites.Drawing is one of my favorite hobbies. Besides the HTML, CSS, and JS essential programming languages of web development, I also know how to write in Python and C++. I am a proactive learner and a good teacher. One example of that is that I learned how to speak English myself, and started a free English class in my community, having almost 10 active students for 6 months before coming to Rexburg.During COVID, I had a home-office internship at FamilySearch. I've created images, blog articles, translated videos, and live streaming for their social media. I also learned about Power BI there. I've created and weekly updated data models about all the FamilySearch Brazil Area reach using Power BI.",
-  "website": "https://sergioo29.github.io/Portfolio/",
-  "skills": [
-    {
-      "src": "/Portfolio/logos/typescript.svg",
-      "name": "Typescript",
-      "link": "https://www.typescriptlang.org/"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Report Refactoring",
-      "image": "/Portfolio/logos/NET.svg",
-      "about": "This refactoring ticket saved the client $30,000 a year in man hours, removing a 2 minute search that the Customer Service Agents would do over 45K times a year. There was a specific report in the client website that lacked important information. To solve the problem I researched different internal API's, found the best and added its data to the report. This included authentication with a bearer token and creating the data structures in C# to represent the API response. I also added error handling in several locations so the backend would handle the situation, were the API to be unresponsive.",
-      "tech": [ "C#", ".NET", "SQL" ],
-      "links": {},
-      "role": "Software Engineer"
-    },
-    {
-      "name": "Media Server Android App",
-      "image": "/Portfolio/projects/android.svg",
-      "about": "This project is an alternative to Google Photos or any other cloud storage solution for photos and videos. It includes a server to be set up in an old laptop and an Android app to upload the photos and videos. The goal is to put to use an old computer you may have and to avoid the surveillance and lack of privacy from companies like Google.",
-      "tech": [ "Java", "SFTP", "Android" ],
-      "links": {
-        "GitHub": "https://github.com/jamesbigenterprise/MediaServer",
-        "Live": "https://www.youtube.com/watch?v=bLOL7dnXrFE"
-      },
-      "role": "Undergrad Student"
-    }
-  ],
-  "testimonials": [
-    {
-      "value": "Sergio is a great communicator. I mentored him for one year during the BYU Pathway Worldwide program. His lessons were engaging and instructive. He made good use of humor to maintain the class engaged and we had a good time. On top of that, he is a good graphic designer, I say that based on the work I have seen so far.",
-      "name": "James Alves",
-      "relation": "Mentor",
-      "pfp": "/Portfolio/circleprofile.jpeg",
-      "link": "https://www.linkedin.com/in/alves-james/"
-    }
-   
-  ],
-  "links": [
-    {
-      "name": "GitHub",
-      "icon": "github.svg",
-      "link": "https://github.com/Sergioo29"
-    },
-    {
-      "name": "Mail me",
-      "icon": "mail.svg",
-      "link": "sergiohds_29@hotmail.com"
-    },
-    {
-      "name": "LinkedIn",
-      "icon": "linkedin.svg",
-      "link": "https://www.linkedin.com/in/sergio-da-silva-5b7060209/"
-    }
-  ]
+    "name": "Sergio Silva",
+    "image": "/Portfolio/circleprofile.jpg",
+    "profession": "Web Designer",
+    "intro": "My focus is on the front end.",
+    "about": "A Brazilian with a major in Web Development, and minor in Graphic Design to better craft and build websites. Drawing is one of my favorite hobbies. Besides the HTML, CSS, and JS essential programming languages of web development, I also know how to write in Python and C++. I am a proactive learner and a good teacher. One example of that is that I learned how to speak English myself. I even started a free English class in my community, having almost 10 active students for 6 months before coming to Idaho. During COVID, I had a home-office internship at FamilySearch. I've created images, blog articles, translated videos, and live streamed for their social media. I also learned about Power BI there. I've created and weekly updated data models about all the FamilySearch Brazil Area reach using Power BI.",
+    "website": "https://sergioo29.github.io/Portfolio/",
+    "skills": [
+        {
+            "src": "/Portfolio/logos/typescript.svg",
+            "name": "Typescript",
+            "link": "https://www.typescriptlang.org/"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Moonlander video-game",
+            "image": "/Portfolio/projects/moonlander.png",
+            "about": "Simple game made using In this C++-based Moonlander game, players control a lunar module, maneuvering it to land safely on the moon's surface using basic thrust controls. With each level the terrain is randomly drawn, challenging players' precision and skill.",
+            "tech": ["C++"],
+            "links": {
+                "GitHub": "https://github.com",
+                "Live": "https://google.com"
+            },
+            "role": "Undergrad Student"
+        },
+        {
+            "name": "C++ Programs",
+            "image": "/Portfolio/logos/C++.png",
+            "about": "All the codes I coded all by myself.",
+            "tech": ["C++"],
+            "links": {
+                "GitHub": "https://github.com",
+                "Live": "https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fsh%2F38g0fezdy4704z2%2FAADB0X4xhliMdz2ERLsUhHwWa%3Fdl%3D0&sa=D&sntz=1&usg=AOvVaw20bLFbSNMErjMzd_hYxfA3"
+            },
+            "role": "Undergrad Student"
+        },
+        {
+            "name": "Python Applications",
+            "image": "/Portfolio/logos/python.png",
+            "about": "Simple web page containing all the applications I created using simple Python syntax and functions. You can also watch the video to see me testings those apps myself",
+            "tech": ["Python"],
+            "links": {
+                "GitHub": "https://github.com",
+                "Live": "https://youtu.be/ZKzNTxXlutA"
+            },
+            "role": "Undergrad Student"
+        },
+        {
+            "name": "Element Mixing App",
+            "image": "/Portfolio/logos/js.png",
+            "about": "My first JavaScript project. The app have those four icons representing the four basic elements. You can click on two of them to see what thee mix would result in. For another test you need to refresh the page.",
+            "tech": ["JavaScript"],
+            "links": {
+                "GitHub": "https://github.com/Sergioo29/sergioo29.github.io/tree/main/JS%20App%20Fall2021/task6%20app%2021Fall%20(Sergio)",
+                "Live": "https://sergioo29.github.io/JS%20App%20Fall2021/task6%20app%2021Fall%20(Sergio)/app.html"
+            },
+            "role": "Undergrad Student"
+        },
+        {
+            "name": "Water Rafting Website",
+            "image": "/Portfolio/projects/raft.png",
+            "about": "My first experience building a full website. This website uses almost no JavaScript, so is more of a HTML and CSS only website",
+            "tech": ["HTML", "CSS"],
+            "links": {
+                "GitHub": "https://github.com/Sergioo29/sergioo29.github.io/tree/main/wwr",
+                "Live": "https://sergioo29.github.io/wwr/"
+            },
+            "role": "Undergrad Student"
+        },
+        {
+            "name": "Chamber of Commerce Website",
+            "image": "/Portfolio/projects/chamber.png",
+            "about": "A ficticious chamber of commerce created by me aimed toward the Rexburd-Idaho population. Now JavaScript has used more and an API for weather was implemented.",
+            "tech": ["HTML", "CSS", "JavaScript", "API"],
+            "links": {
+                "GitHub": "https://github.com/Sergioo29/wdd230/tree/main/chamber",
+                "Live": "https://sergioo29.github.io/wdd230/chamber/"
+            },
+            "role": "Undergrad Student"
+        },
+        {
+            "name": "Inn & Suite Website",
+            "image": "/Portfolio/projects/api.png",
+            "about": "A ficticious inn & suite company created by me aimed toward the people that wanted to visit Mormon Temples around the country. Again with JavaScript added and an API for weather implemented.",
+            "tech": ["HTML", "CSS", "JavaScript", "API"],
+            "links": {
+                "GitHub": "https://github.com/Sergioo29/wdd230/tree/main/final",
+                "Live": "https://sergioo29.github.io/wdd230/final/"
+            },
+            "role": "Undergrad Student"
+        },
+        {
+            "name": "Personal Project",
+            "image": "/Portfolio/projects/psp.png",
+            "about": "A website containing a story I wrote. All the images contained in this website were also designed by me.",
+            "tech": ["HTML", "CSS", "Photoshop", "Graphic Design"],
+            "links": {
+                "GitHub": "https://github.com/Sergioo29/sergioo29.github.io/tree/main/psp",
+                "Live": "https://sergioo29.github.io/psp/"
+            },
+            "role": "Writer and Designer"
+        },
+        {
+            "name": "FamilySearch Assets",
+            "image": "/Portfolio/projects/fs.png",
+            "about": "During my internship at FamilySearch I created more than 50 artworks that were used in the FamilySearch Brazil social media. At least 2 of them had a interaction spike, meaning that the likes and comments were way higher for the post that used them. I also participated in an event called RootsTech. I translated images to Portuguese, added captions to videos, and even recored my own tutorial. The video is added here",
+            "tech": ["Graphic Design", "Photoshop", "Social Media"],
+            "links": {
+                "GitHub": "https://www.youtube.com/watch?v=VV-L5SX62jY",
+                "Live": "https://www.dropbox.com/scl/fo/cetpkb1cg20wjne7alh5e/AOm__uKNXHWVNhl3950vBAM?rlkey=jnpg26n9thqujl0djz6u884yt&e=1&dl=0"
+            },
+            "role": "Intern"
+        },
+        {
+            "name": "Artwork Creations",
+            "image": "/Portfolio/projects/larica.png",
+            "about": "I draw both on paper and digitally. You can find some of my best creations in the Dropbox folder linked below",
+            "tech": ["Graphic Design", "Photoshop", "Illustrator"],
+            "links": {
+                "GitHub": "https://google.com",
+                "Live": "https://www.dropbox.com/scl/fo/cetpkb1cg20wjne7alh5e/AFVcBeNRBvFiA7wy9gvNCSo/Original?rlkey=jnpg26n9thqujl0djz6u884yt&e=1&subfolder_nav_tracking=1&dl=00"
+            },
+            "role": "Graphic Designer"
+        },
+        {
+            "name": "Hardware Handling",
+            "image": "/Portfolio/projects/arduino.jpg",
+            "about": "I have basic knowledge of hardware as well. From building my own pc to using Arduino and breadboards, I can make hardware work with little instruction. I linked a video of me showcasing an Arduino application I made.",
+            "tech": ["Hardware", "Arduino", "Breadboard"],
+            "links": {
+                "GitHub": "https://google.com",
+                "Live": "https://www.youtube.com/watch?v=_x6MhQm6Dbw"
+            },
+            "role": "Undergrad Student"
+        }
+    ],
+    "testimonials": [
+        {
+            "value": "Sergio is a great communicator. I mentored him for one year during the BYU Pathway Worldwide program. His lessons were engaging and instructive. He made good use of humor to maintain the class engaged and we had a good time. On top of that, he is a good graphic designer, I say that based on the work I have seen so far.",
+            "name": "James Alves",
+            "relation": "Mentor",
+            "pfp": "/Portfolio/jamesprofile.jpg",
+            "link": "https://www.linkedin.com/in/alves-james/"
+        },
+        {
+            "value": "Bro Smith  testimonial.",
+            "name": "Ashley Smith",
+            "relation": "Manager",
+            "pfp": "/Portfolio/ashleyprofile.jpg",
+            "link": "https://www.linkedin.com/in/alves-james/"
+        },
+        {
+            "value": "Sis Palmer  testimonial.",
+            "name": "Jennifer Palmer",
+            "relation": "Manager",
+            "pfp": "/Portfolio/palmerprofile.jpg",
+            "link": "https://www.linkedin.com/in/alves-james/"
+        }
+    ],
+    "links": [
+        {
+            "name": "GitHub",
+            "icon": "github.svg",
+            "link": "https://github.com/Sergioo29"
+        },
+        {
+            "name": "Mail me",
+            "icon": "mail.svg",
+            "link": "sergiohds_29@hotmail.com"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin.svg",
+            "link": "https://www.linkedin.com/in/sergio-da-silva-5b7060209/"
+        }
+    ]
 }

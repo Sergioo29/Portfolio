@@ -31,8 +31,7 @@ module.exports = {
         curly: 'error',
         'no-lonely-if': 'error',
         'no-unneeded-ternary': 'error',
-        'one-var-declaration-per-line': 'error'
-        ],
+        'one-var-declaration-per-line': 'error', // Added comma here
 
         'array-callback-return': 'off',
         'prefer-const': 'error',
