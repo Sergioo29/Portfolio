@@ -69,7 +69,7 @@
         {
             "name": "Water Rafting",
             "image": "/Portfolio/projects/raft.png",
-            "about": "My first experience building a full website. This website uses almost no JavaScript, so is more of a HTML and CSS only website",
+            "about": "My first experience building a full website. This website uses almost no JavaScript, so is more of a HTML and CSS only website.",
             "tech": ["HTML", "CSS"],
             "links": {
                 "GitHub": "https://github.com/Sergioo29/wdd130/blob/main/wwr/index.html",
@@ -80,7 +80,7 @@
         {
             "name": "Chamber of Commerce",
             "image": "/Portfolio/projects/chamber.png",
-            "about": "A ficticious chamber of commerce created by me aimed toward the Rexburd-Idaho population. Now JavaScript has used more and an API for weather was implemented.",
+            "about": "A ficticious chamber of commerce created by me aimed toward the Rexburd-Idaho population. Now JavaScript was used more and an API for weather was implemented.",
             "tech": ["HTML", "CSS", "JavaScript", "API"],
             "links": {
                 "GitHub": "https://github.com/Sergioo29/wdd230/blob/main/chamber/index.html",
@@ -113,7 +113,7 @@
         {
             "name": "FamilySearch Assets",
             "image": "/Portfolio/projects/fs.png",
-            "about": "During my internship at FamilySearch I created more than 50 artworks that were used in the FamilySearch Brazil social media. At least 2 of them had a interaction spike, meaning that the likes and comments were way higher for the post that used them. I also participated in an event called RootsTech. I translated images to Portuguese, added captions to videos, and even recored my own tutorial. The video is added here",
+            "about": "During my internship at FamilySearch I created more than 50 artworks that were used in the FamilySearch Brazil social media. At least 2 of them had a interaction spike, meaning that the likes and comments were way higher for the post that used them. I also participated in an event called RootsTech. I translated images to Portuguese, added captions to videos, and even recored my own tutorial. The video is added here.",
             "tech": ["Graphic Design", "Photoshop", "Social Media"],
             "links": {
                 "GitHub": "https://sergioo29.github.io/artworks/",
@@ -124,7 +124,7 @@
         {
             "name": "Artwork Creations",
             "image": "/Portfolio/projects/larica.png",
-            "about": "I draw both on paper and digitally. You can find some of my best creations in the Dropbox folder linked below",
+            "about": "I draw both on paper and digitally. You can find some of my favorite creations in the page I linked below.",
             "tech": ["Graphic Design", "Photoshop", "Illustrator"],
             "links": {
                 "GitHub": "https://github.com/Sergioo29/artworks",
