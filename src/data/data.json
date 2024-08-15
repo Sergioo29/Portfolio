@@ -1,5 +1,5 @@
 {
-    "name": "Sergio Silva",
+    "name": "Sergio da Silva",
     "image": "/Portfolio/circleprofile.jpg",
     "profession": "Web Designer",
     "intro": "My focus is on the front end.",
@@ -7,42 +7,51 @@
     "website": "https://sergioo29.github.io/Portfolio/",
     "skills": [
         {
-            "src": "/Portfolio/logos/typescript.svg",
-            "name": "Typescript",
-            "link": "https://www.typescriptlang.org/"
+            "src": "/Portfolio/logos/html.png",
+            "name": "HTML",
+            "link": "https://html.spec.whatwg.org/"
+        },
+        {
+            "src": "/Portfolio/logos/css.png",
+            "name": "CSS",
+            "link": "https://css3.com/"
+        },
+        {
+            "src": "/Portfolio/logos/js2.png",
+            "name": "JS",
+            "link": "https://www.javascript.com/"
+        },
+        {
+            "src": "/Portfolio/logos/ps.png",
+            "name": "Photoshop",
+            "link": "https://www.adobe.com/products/photoshop.html"
+        },
+        {
+            "src": "/Portfolio/logos/ai.png",
+            "name": "Illustrator",
+            "link": "https://www.adobe.com/products/illustrator.html"
         }
     ],
     "projects": [
         {
-            "name": "Moonlander video-game",
-            "image": "/Portfolio/projects/moonlander.png",
+            "name": "Moonlander",
+            "image": "/Portfolio/logos/C++.png",
             "about": "Simple game made using In this C++-based Moonlander game, players control a lunar module, maneuvering it to land safely on the moon's surface using basic thrust controls. With each level the terrain is randomly drawn, challenging players' precision and skill.",
             "tech": ["C++"],
             "links": {
-                "GitHub": "https://github.com",
+                "GitHub": "https://github.com/Sergioo29/cs165/tree/main/assign06and7%20(moonLander)",
                 "Live": "https://google.com"
             },
             "role": "Undergrad Student"
         },
         {
-            "name": "C++ Programs",
-            "image": "/Portfolio/logos/C++.png",
-            "about": "All the codes I coded all by myself.",
-            "tech": ["C++"],
-            "links": {
-                "GitHub": "https://github.com",
-                "Live": "https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fsh%2F38g0fezdy4704z2%2FAADB0X4xhliMdz2ERLsUhHwWa%3Fdl%3D0&sa=D&sntz=1&usg=AOvVaw20bLFbSNMErjMzd_hYxfA3"
-            },
-            "role": "Undergrad Student"
-        },
-        {
-            "name": "Python Applications",
+            "name": "List Sorter",
             "image": "/Portfolio/logos/python.png",
-            "about": "Simple web page containing all the applications I created using simple Python syntax and functions. You can also watch the video to see me testings those apps myself",
+            "about": "Among all the Python programs I have created, this one sticks out as one of the most interesting and useful ones. It is a simple sorter that promps for a .json file and display a list sorted alphabeticaly. You can also watch the video to see me testing it.",
             "tech": ["Python"],
             "links": {
-                "GitHub": "https://github.com",
-                "Live": "https://youtu.be/ZKzNTxXlutA"
+                "GitHub": "https://github.com/Sergioo29/cs101/blob/main/sorter.py",
+                "Live": "https://www.youtube.com/watch?v=Ytf5H4Q9194"
             },
             "role": "Undergrad Student"
         },
@@ -52,52 +61,52 @@
             "about": "My first JavaScript project. The app have those four icons representing the four basic elements. You can click on two of them to see what thee mix would result in. For another test you need to refresh the page.",
             "tech": ["JavaScript"],
             "links": {
-                "GitHub": "https://github.com/Sergioo29/sergioo29.github.io/tree/main/JS%20App%20Fall2021/task6%20app%2021Fall%20(Sergio)",
-                "Live": "https://sergioo29.github.io/JS%20App%20Fall2021/task6%20app%2021Fall%20(Sergio)/app.html"
+                "GitHub": "https://github.com/Sergioo29/cse121/blob/main/week6/app.js",
+                "Live": "https://sergioo29.github.io/cse121/week6/app.html"
             },
             "role": "Undergrad Student"
         },
         {
-            "name": "Water Rafting Website",
+            "name": "Water Rafting",
             "image": "/Portfolio/projects/raft.png",
             "about": "My first experience building a full website. This website uses almost no JavaScript, so is more of a HTML and CSS only website",
             "tech": ["HTML", "CSS"],
             "links": {
-                "GitHub": "https://github.com/Sergioo29/sergioo29.github.io/tree/main/wwr",
-                "Live": "https://sergioo29.github.io/wwr/"
+                "GitHub": "https://github.com/Sergioo29/wdd130/blob/main/wwr/index.html",
+                "Live": "https://sergioo29.github.io/wdd130/wwr/index.html"
             },
             "role": "Undergrad Student"
         },
         {
-            "name": "Chamber of Commerce Website",
+            "name": "Chamber of Commerce",
             "image": "/Portfolio/projects/chamber.png",
             "about": "A ficticious chamber of commerce created by me aimed toward the Rexburd-Idaho population. Now JavaScript has used more and an API for weather was implemented.",
             "tech": ["HTML", "CSS", "JavaScript", "API"],
             "links": {
-                "GitHub": "https://github.com/Sergioo29/wdd230/tree/main/chamber",
+                "GitHub": "https://github.com/Sergioo29/wdd230/blob/main/chamber/index.html",
                 "Live": "https://sergioo29.github.io/wdd230/chamber/"
             },
             "role": "Undergrad Student"
         },
         {
-            "name": "Inn & Suite Website",
+            "name": "Inn & Suite",
             "image": "/Portfolio/projects/api.png",
             "about": "A ficticious inn & suite company created by me aimed toward the people that wanted to visit Mormon Temples around the country. Again with JavaScript added and an API for weather implemented.",
             "tech": ["HTML", "CSS", "JavaScript", "API"],
             "links": {
-                "GitHub": "https://github.com/Sergioo29/wdd230/tree/main/final",
+                "GitHub": "https://github.com/Sergioo29/wdd230/blob/main/final/index.html",
                 "Live": "https://sergioo29.github.io/wdd230/final/"
             },
             "role": "Undergrad Student"
         },
         {
-            "name": "Personal Project",
+            "name": "Story Project",
             "image": "/Portfolio/projects/psp.png",
             "about": "A website containing a story I wrote. All the images contained in this website were also designed by me.",
             "tech": ["HTML", "CSS", "Photoshop", "Graphic Design"],
             "links": {
-                "GitHub": "https://github.com/Sergioo29/sergioo29.github.io/tree/main/psp",
-                "Live": "https://sergioo29.github.io/psp/"
+                "GitHub": "https://github.com/Sergioo29/wdd130/blob/main/psp/index.html",
+                "Live": "https://sergioo29.github.io/wdd130/psp/index.html"
             },
             "role": "Writer and Designer"
         },
@@ -107,8 +116,8 @@
             "about": "During my internship at FamilySearch I created more than 50 artworks that were used in the FamilySearch Brazil social media. At least 2 of them had a interaction spike, meaning that the likes and comments were way higher for the post that used them. I also participated in an event called RootsTech. I translated images to Portuguese, added captions to videos, and even recored my own tutorial. The video is added here",
             "tech": ["Graphic Design", "Photoshop", "Social Media"],
             "links": {
-                "GitHub": "https://www.youtube.com/watch?v=VV-L5SX62jY",
-                "Live": "https://www.dropbox.com/scl/fo/cetpkb1cg20wjne7alh5e/AOm__uKNXHWVNhl3950vBAM?rlkey=jnpg26n9thqujl0djz6u884yt&e=1&dl=0"
+                "GitHub": "https://sergioo29.github.io/artworks/",
+                "Live": "https://www.youtube.com/watch?v=VV-L5SX62jY"
             },
             "role": "Intern"
         },
@@ -118,18 +127,18 @@
             "about": "I draw both on paper and digitally. You can find some of my best creations in the Dropbox folder linked below",
             "tech": ["Graphic Design", "Photoshop", "Illustrator"],
             "links": {
-                "GitHub": "https://google.com",
-                "Live": "https://www.dropbox.com/scl/fo/cetpkb1cg20wjne7alh5e/AFVcBeNRBvFiA7wy9gvNCSo/Original?rlkey=jnpg26n9thqujl0djz6u884yt&e=1&subfolder_nav_tracking=1&dl=00"
+                "GitHub": "https://github.com/Sergioo29/artworks",
+                "Live": "https://sergioo29.github.io/artworks/"
             },
             "role": "Graphic Designer"
         },
         {
             "name": "Hardware Handling",
-            "image": "/Portfolio/projects/arduino.jpg",
+            "image": "/Portfolio/projects/arduino.png",
             "about": "I have basic knowledge of hardware as well. From building my own pc to using Arduino and breadboards, I can make hardware work with little instruction. I linked a video of me showcasing an Arduino application I made.",
             "tech": ["Hardware", "Arduino", "Breadboard"],
             "links": {
-                "GitHub": "https://google.com",
+                "GitHub": "https://sergioo29.github.io/ecen106/",
                 "Live": "https://www.youtube.com/watch?v=_x6MhQm6Dbw"
             },
             "role": "Undergrad Student"
@@ -137,24 +146,17 @@
     ],
     "testimonials": [
         {
+            "value": "I am delighted to recommend Sergio da Silva, who has been a part of our online campus design team. Despite English not being his first language, Sergio's adaptability and quick learning were evident as he excelled in all communication tasks assigned to him, showcasing exceptional proficiency. Sergio was crucial in designing open educational resource textbooks for several classes. His creativity and attention to detail significantly enhanced the quality of these resources. Sergio's ability to troubleshoot and resolve technical issues, including complex problems with campus page coding, was invaluable. One of Sergio's most commendable traits is his reliability and diligence. I highly recommend Sergio for any task or position he pursues. If you have any questions, please contact me. (PalmerJen@byui. edu | (208) 496 1898)",
+            "name": "Jennifer Palmer",
+            "relation": "Manager",
+            "pfp": "/Portfolio/palmerprofile.jpg",
+            "link": "https://www.linkedin.com/in/jennifer-palmer-39297a67/"
+        },
+        {
             "value": "Sergio is a great communicator. I mentored him for one year during the BYU Pathway Worldwide program. His lessons were engaging and instructive. He made good use of humor to maintain the class engaged and we had a good time. On top of that, he is a good graphic designer, I say that based on the work I have seen so far.",
             "name": "James Alves",
             "relation": "Mentor",
             "pfp": "/Portfolio/jamesprofile.jpg",
-            "link": "https://www.linkedin.com/in/alves-james/"
-        },
-        {
-            "value": "Ashley Smith  testimonial.",
-            "name": "Ashley Smith",
-            "relation": "Manager",
-            "pfp": "/Portfolio/ashleyprofile.jpg",
-            "link": "https://www.linkedin.com/in/alves-james/"
-        },
-        {
-            "value": "I am delighted to recommend Sergio da Silva, a talented and dedicated college student from Brazil who has been a part of our online campus design team. Despite English not being his first language, Sergio's adaptability and quick learning were evident as he excelled in all communication tasks assigned to him, showcasing exceptional proficiency. Sergio was crucial in designing open educational resource textbooks for several classes. His creativity and attention to detail significantly enhanced the quality of these resources. Moreover, he assisted me in exploring and integrating new technologies into our online learning platforms, such as Feedback Fruits and Jamboard. Sergio's ability to troubleshoot and resolve technical issues, including complex problems with campus page coding, was invaluable. One of Sergio's most commendable traits is his reliability and diligence. He consistently met deadlines and delivered high-quality work across all projects. His contributions as a graphic designer were also noteworthy, as he designed visually appealing and effective course materials. I highly recommend Sergio for any task or position he pursues. He has proven to be dependable, innovative, and a quick learner. If you have any questions or require further information, please contact me. (PalmerJen@byui. edu | (208) 496 1898)",
-            "name": "Jennifer Palmer",
-            "relation": "Manager",
-            "pfp": "/Portfolio/palmerprofile.jpg",
             "link": "https://www.linkedin.com/in/alves-james/"
         }
     ],
@@ -167,7 +169,7 @@
         {
             "name": "Mail me",
             "icon": "mail.svg",
-            "link": "sergiohds_29@hotmail.com"
+            "link": "mailto:sergiohds_29@hotmail.com"
         },
         {
             "name": "LinkedIn",
