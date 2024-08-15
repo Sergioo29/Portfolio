@@ -19,9 +19,9 @@ const Logo: FC<LogoType> = ({ className }) => {
             viewBox="0 0 500 148"
             enable-background="new 0 0 500 148"
         >
-            <title>Sergio da Silva</title>
+            <title>Sergio Silva</title>
             <path
-                fill="#556272"
+                fill="#00000000"
                 opacity="1.000000"
                 stroke="none"
                 d="
