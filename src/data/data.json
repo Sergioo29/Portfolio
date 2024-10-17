@@ -30,6 +30,16 @@
             "src": "/Portfolio/logos/ai.png",
             "name": "Illustrator",
             "link": "https://www.adobe.com/products/illustrator.html"
+        },
+        {
+            "src": "/Portfolio/logos/ts.svg",
+            "name": "Typescript",
+            "link": "https://www.typescriptlang.org/"
+        },
+        {
+            "src": "/Portfolio/logos/sql.png",
+            "name": "SQL",
+            "link": "https://www.mysql.com/"
         }
     ],
     "projects": [
